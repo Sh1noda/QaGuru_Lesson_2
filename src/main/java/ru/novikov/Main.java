@@ -5,6 +5,6 @@ public class Main {
         System.out.println(msg());
     }
     private static String msg() {
-        return "Hello qa.guru!!!!";
+        return "Hello qa.guru!!!!!!!!!";
     }
 }
